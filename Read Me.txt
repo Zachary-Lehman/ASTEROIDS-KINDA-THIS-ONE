@@ -1,0 +1,15 @@
+ASTEROIDS KINDA is a version of "Asteroids" with several major changes that you may notice like:
+1. You have a lifebar. It goes down constatly as long as you aren't doing anything. It also goes down with use of the laser minigun and pressing the down arrow.
+2. Theese asteroids aren't normal asteroids! They have strange behaviors that may imply some sort of... master.
+3. The weapons don't suck! Each Level has a unique weapon with completley different properties.
+4. Music? This is copyright infringement! No, I made it. You can find the mp3 in the game's files, and test it against every other song in existence, and not find a one to
+one comparison.
+Controls:
+Up arrow - Go foward and increase your health
+Left arrow - Turn left
+Right arrow - Turn Right
+Down arrow - Go back ward, hammer to go extremly fast
+Control - Primary fire, hold down for laser minigun
+Shift - Fires homing missle, watch out for sticky keys
+Space - Go to title Screen
+R - Restart after death
