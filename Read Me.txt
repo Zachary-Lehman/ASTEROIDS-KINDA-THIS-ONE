@@ -8,7 +8,7 @@ Controls:
 Up arrow - Go foward and increase your health
 Left arrow - Turn left
 Right arrow - Turn Right
-Down arrow - Go back ward, hammer to go extremly fast
+Down arrow - Go backward, hammer to go extremly fast
 Control - Primary fire, hold down for laser minigun
 Shift - Fires homing missle, watch out for sticky keys
 Space - Go to title Screen
